@@ -76,7 +76,7 @@ Apoiar a análise documental técnica por meio de automação inteligente, reduz
 
 ## 📫 Contato
 
-- GitHub: https://github.com/kubota-hajime
+- https://www.linkedin.com/in/hajime-kubota-41a8353a8/?skipRedirect=true
 
 ---
 
