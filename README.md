@@ -17,7 +17,7 @@ Meu foco está na automação da leitura documental com ênfase em:
 
 ## 🧠 Áreas de Atuação
 
-- Identificação veicular (VIN, chassi, motor e correlatos)
+- Identificação veicular (VIN-chassi, motor e correlatos)
 - Análise documental técnica
 - Inteligência Artificial aplicada a documentos
 - OCR e extração de dados estruturados
