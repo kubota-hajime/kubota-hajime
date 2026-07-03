@@ -30,7 +30,7 @@ Meu foco está na automação da leitura documental com ênfase em:
 
 ## 🔬 Projeto Principal
 
-### 🚗 Vehicle Identification Engine
+### 🚗 Sinav - Sistema de Inteligência em Auditoria Veicular
 
 Sistema de processamento e consolidação de informações técnicas aplicadas à identificação veicular.
 
@@ -42,7 +42,7 @@ Transformar documentos técnicos e periciais em estruturas organizadas e rastre�
 
 - 📄 Extração de texto de documentos PDF
 - 🔍 OCR para documentos digitalizados
-- 🧩 Identificação de sinais veiculares (VIN, chassi, motor e correlatos)
+- 🧩 Identificação de sinais veiculares (VIN-chassi, motor e correlatos)
 - 🧠 Consolidação semântica de informações dispersas
 - 🧾 Organização de evidências por entidade identificadora
 - 📊 Geração de relatórios estruturados para revisão técnica
