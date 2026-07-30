@@ -76,7 +76,7 @@ Apoiar a análise documental técnica por meio de automação inteligente, reduz
 
 ## 📫 Contato
 
-- Linkedin: https://www.linkedin.com/in/hajime-kubota-41a8353a8/?skipRedirect=true
+- Linkedin: https://www.linkedin.com/in/hajime-luna-kubota-41a8353a8/?skipRedirect=true
 
 ---
 
