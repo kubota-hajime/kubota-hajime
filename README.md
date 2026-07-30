@@ -30,7 +30,7 @@ Meu foco está na automação da leitura documental com ênfase em:
 
 ## 🔬 Projeto Principal
 
-### 🚗 Sinav - Sistema de Inteligência em Auditoria Veicular
+### 🚗 Sinav - Sistema de Inteligência em Análise Veicular
 
 Sistema de processamento e consolidação de informações técnicas aplicadas à identificação veicular.
 
