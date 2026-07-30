@@ -67,7 +67,7 @@ Apoiar a análise documental técnica por meio de automação inteligente, reduz
 
 ## 📌 Foco Atual
 
-- Evolução do Vehicle Identification Engine
+- Evolução do Sinav
 - Aprimoramento da consolidação semântica de informações
 - Estruturação de pipelines de análise documental com IA
 - Normalização e organização de dados técnicos
