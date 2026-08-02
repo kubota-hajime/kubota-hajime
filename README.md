@@ -1,30 +1,48 @@
 # Hajime Luna Kubota
 
-### Especialista em Identificação Veicular • Inteligência Artificial • Análise Documental Técnica
+### Especialista em Identificação Veicular • Inteligência Artificial Aplicada • Análise Documental Técnica • 20+ anos de experiência
 
 ---
 
-## Sobre
+# Sobre
 
-Atuo no desenvolvimento de soluções de Inteligência Artificial aplicadas à identificação veicular e à análise documental técnica, com foco na extração, consolidação e rastreabilidade de informações provenientes de processos administrativos e periciais.
+Sou especialista em identificação veicular com mais de 20 anos de experiência na análise técnico-administrativa de processos envolvendo identificação física de veículos, perícias, regularização administrativa e rastreabilidade documental.
 
-Meu trabalho está voltado à construção de sistemas capazes de transformar grandes volumes de documentação técnica em informações estruturadas, preservando a fidelidade documental e fornecendo suporte qualificado à revisão humana.
+Ao longo da minha trajetória profissional, desenvolvi expertise na interpretação de laudos periciais, correlação de informações provenientes de múltiplas fontes documentais, identificação de inconsistências técnicas e apoio à tomada de decisão em processos administrativos de elevada complexidade.
 
-Minha atuação concentra-se na integração entre conhecimento especializado em identificação veicular, processamento inteligente de documentos e engenharia de software, desenvolvendo ferramentas voltadas para ambientes que exigem elevado nível de precisão, auditabilidade e consistência técnica.
+Atualmente, concentro minha atuação no desenvolvimento de soluções de Inteligência Artificial aplicadas à análise documental especializada, unindo conhecimento técnico do domínio, engenharia de software e modelos de linguagem para automatizar tarefas complexas de extração, organização e consolidação de informações, sempre preservando a rastreabilidade das evidências e mantendo a revisão humana como etapa essencial do processo analítico.
+
+---
+
+# Experiência
+
+**Mais de duas décadas de atuação na área de identificação veicular**, com experiência em:
+
+* Identificação física veicular (VIN/Chassi, motor e demais elementos identificadores);
+* Análise técnico-administrativa de processos de identificação veicular;
+* Interpretação de laudos periciais e documentação técnica;
+* Regularização administrativa de veículos;
+* Consolidação e rastreabilidade de evidências documentais;
+* Aplicação de normas técnicas e regulamentações relacionadas à identificação veicular;
+* Desenvolvimento de metodologias para análise documental especializada;
+* Automação de processos utilizando Inteligência Artificial.
+
+Essa experiência de domínio orienta o desenvolvimento de soluções tecnológicas voltadas para ambientes que exigem elevada confiabilidade, precisão técnica e auditabilidade.
 
 ---
 
 # Áreas de Especialização
 
-* Identificação veicular (VIN/Chassi, motor e demais elementos identificadores)
 * Inteligência Artificial aplicada à análise documental
-* Processamento inteligente de documentos técnicos
+* Identificação veicular
+* Processamento inteligente de documentos
 * Extração estruturada de informações
 * Consolidação semântica de evidências
 * Engenharia de pipelines para processamento documental
-* Desenvolvimento de APIs utilizando modelos de linguagem (LLMs)
+* Desenvolvimento de APIs utilizando Large Language Models (LLMs)
 * Automação de relatórios técnicos
-* Rastreabilidade e organização de evidências
+* Organização e rastreabilidade de evidências
+* Engenharia de prompts para aplicações especializadas
 
 ---
 
@@ -32,75 +50,80 @@ Minha atuação concentra-se na integração entre conhecimento especializado em
 
 # SINAV — Sistema de Inteligência em Análise Veicular
 
-O SINAV é uma plataforma especializada em análise documental inteligente desenvolvida para apoiar processos de identificação veicular.
+O **SINAV** é uma plataforma de Inteligência Artificial especializada na análise documental aplicada à identificação veicular.
 
-Seu objetivo é organizar, correlacionar e consolidar automaticamente informações técnicas provenientes de diferentes documentos, permitindo que especialistas realizem análises mais rápidas, consistentes e fundamentadas.
+O projeto foi concebido a partir de necessidades observadas durante anos de atuação profissional na área, com o objetivo de reduzir o esforço operacional envolvido na análise de processos administrativos e periciais, aumentar a consistência técnica das análises e preservar integralmente a rastreabilidade das evidências documentais.
 
----
-
-## Problema que o SINAV resolve
-
-Processos administrativos e periciais frequentemente contêm informações distribuídas entre diversos documentos, dificultando a identificação de evidências relevantes e aumentando o tempo necessário para análise.
-
-O SINAV automatiza esse processo por meio da extração estruturada, organização das informações e consolidação semântica das evidências, preservando integralmente sua origem documental.
+Mais do que realizar OCR ou extrair texto de documentos, o SINAV organiza conhecimento técnico, correlaciona informações provenientes de múltiplos documentos e estrutura evidências para apoiar especialistas na revisão e interpretação dos processos.
 
 ---
 
-## Arquitetura Geral
+# Problema que o SINAV resolve
+
+Processos administrativos frequentemente são compostos por dezenas de documentos contendo informações distribuídas, redundantes ou conflitantes.
+
+A identificação manual dessas informações demanda elevado esforço operacional e aumenta o risco de inconsistências durante a análise.
+
+O SINAV automatiza esse processo por meio da extração estruturada, organização das informações, consolidação semântica das evidências e geração de relatórios técnicos, preservando sempre a origem documental de cada informação identificada.
+
+---
+
+# Arquitetura Conceitual
 
 ```text
-Documentos Técnicos
-        │
-        ▼
- OCR / Extração de Texto
-        │
-        ▼
- Extração Estruturada
-        │
-        ▼
- Consolidação Semântica
-        │
-        ▼
- Correlação de Evidências
-        │
-        ▼
- Organização por Entidades
-        │
-        ▼
- Relatórios Técnicos
+                 Documentos Técnicos
+                         │
+                         ▼
+              OCR / Extração de Texto
+                         │
+                         ▼
+              Extração Estruturada
+                         │
+                         ▼
+            Consolidação Semântica
+                         │
+                         ▼
+          Correlação de Informações
+                         │
+                         ▼
+        Organização por Entidades Técnicas
+                         │
+                         ▼
+      Relatórios Técnicos com Rastreabilidade
 ```
 
 ---
 
-## Principais Capacidades
+# Principais Capacidades
 
-* Extração automática de informações de documentos PDF
-* OCR para documentos digitalizados
-* Identificação de elementos veiculares (VIN/Chassi, motor e correlatos)
-* Consolidação semântica de informações distribuídas em múltiplos documentos
-* Correlação entre documentos administrativos e periciais
-* Organização estruturada de evidências
-* Geração automatizada de relatórios técnicos
-* Suporte à revisão técnica humana
-* Preservação da rastreabilidade documental
+* Extração automática de informações de documentos PDF;
+* OCR para documentos digitalizados;
+* Identificação de elementos veiculares (VIN/Chassi, motor e correlatos);
+* Consolidação semântica de informações distribuídas em múltiplos documentos;
+* Correlação entre documentos administrativos e periciais;
+* Organização estruturada de evidências;
+* Geração automatizada de relatórios técnicos;
+* Apoio à revisão técnica especializada;
+* Preservação integral da rastreabilidade documental.
 
 ---
 
-## Princípios do Projeto
+# Princípios do Projeto
 
 O desenvolvimento do SINAV é orientado pelos seguintes princípios:
 
-* Fidelidade ao documento original
-* Evidências antes de conclusões
-* IA como ferramenta de apoio à decisão
-* Transparência do processo analítico
-* Rastreabilidade completa das informações
-* Organização estruturada do conhecimento
-* Revisão humana como etapa essencial do processo
+* Fidelidade ao documento original;
+* Evidências antes de conclusões;
+* Transparência do processo analítico;
+* IA como ferramenta de apoio à decisão humana;
+* Rastreabilidade completa das informações;
+* Consistência técnica das análises;
+* Organização estruturada do conhecimento;
+* Revisão humana como etapa indispensável.
 
 ---
 
-## Stack Tecnológico
+# Stack Tecnológico
 
 ### Linguagem
 
@@ -109,15 +132,16 @@ O desenvolvimento do SINAV é orientado pelos seguintes princípios:
 ### Inteligência Artificial
 
 * Large Language Models (LLMs)
-* NLP (Natural Language Processing)
+* Processamento de Linguagem Natural (NLP)
 
 ### Processamento Documental
 
 * OCR
-* Extração de Texto
-* Processamento Semântico
+* Extração Estruturada
+* Consolidação Semântica
+* Engenharia de Prompts
 
-### Engenharia
+### Engenharia de Software
 
 * APIs para Modelos de Linguagem
 * Git
@@ -126,47 +150,48 @@ O desenvolvimento do SINAV é orientado pelos seguintes princípios:
 
 ---
 
-## Casos de Uso
+# Casos de Uso
 
-O SINAV é projetado para aplicações como:
+O SINAV foi projetado para aplicações como:
 
 * análise documental técnica;
+* identificação veicular;
 * consolidação de processos administrativos;
-* apoio à identificação veicular;
+* revisão de laudos periciais;
 * organização de evidências documentais;
-* revisão de laudos técnicos;
-* automação de relatórios especializados;
-* processamento inteligente de documentação pericial.
+* geração automatizada de relatórios técnicos;
+* apoio à tomada de decisão baseada em evidências.
 
 ---
 
-## Roadmap
+# Roadmap
 
 ### Concluído
 
-* Extração documental
-* OCR
-* Consolidação de informações
-* Organização de evidências
-* Geração de relatórios técnicos
+* Extração documental;
+* OCR;
+* Consolidação de informações;
+* Organização de evidências;
+* Geração de relatórios técnicos.
 
 ### Em desenvolvimento
 
-* Motor de regras especializado
-* Consolidação semântica avançada
-* Arquitetura modular completa
-* APIs para integração
-* Ampliação dos módulos especializados de análise documental
+* Motor de regras especializado;
+* Consolidação semântica avançada;
+* Arquitetura modular completa;
+* APIs de integração;
+* Expansão dos módulos especializados de análise documental;
+* Aprimoramento dos mecanismos de auditoria e rastreabilidade.
 
 ---
 
-## Objetivo
+# Objetivo
 
-Desenvolver uma plataforma de inteligência documental capaz de transformar documentos técnicos complexos em informações estruturadas, auditáveis e rastreáveis, oferecendo suporte à tomada de decisão baseada em evidências e reduzindo significativamente o esforço operacional envolvido na análise documental especializada.
+Desenvolver uma plataforma de Inteligência Artificial capaz de transformar documentos técnicos complexos em informações estruturadas, auditáveis e rastreáveis, apoiando especialistas na tomada de decisão e promovendo maior eficiência, consistência e segurança na análise documental.
 
 ---
 
-## Contato
+# Contato
 
 **LinkedIn**
 
@@ -174,4 +199,4 @@ https://www.linkedin.com/in/hajime-luna-kubota-41a8353a8/
 
 ---
 
-> O SINAV é um projeto de pesquisa e desenvolvimento focado na aplicação de Inteligência Artificial à análise documental técnica, preservando rastreabilidade, consistência analítica e suporte à decisão humana.
+> **"Transformando mais de duas décadas de experiência em identificação veicular em soluções de Inteligência Artificial para análise documental especializada."**
