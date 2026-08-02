@@ -1,6 +1,6 @@
 # Hajime Luna Kubota
 
-### Especialista em Identificação Veicular e Análise Documental com IA
+### Especialista em Identificação Veicular
 
 ---
 
