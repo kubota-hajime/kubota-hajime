@@ -1,6 +1,6 @@
 # Hajime Luna Kubota
 
-### Especialista em Identificação Veicular • Inteligência Artificial Aplicada • Análise Documental Técnica • 20+ anos de experiência
+### Especialista em Identificação Veicular • Análise Documental Técnica • 20+ anos de experiência
 
 ---
 
@@ -25,7 +25,7 @@ Atualmente, concentro minha atuação no desenvolvimento de soluções de Inteli
 * Consolidação e rastreabilidade de evidências documentais;
 * Aplicação de normas técnicas e regulamentações relacionadas à identificação veicular;
 * Desenvolvimento de metodologias para análise documental especializada;
-* Automação de processos utilizando Inteligência Artificial.
+* Automação de processos utilizando Inteligência Artificial para geração de relatórios.
 
 Essa experiência de domínio orienta o desenvolvimento de soluções tecnológicas voltadas para ambientes que exigem elevada confiabilidade, precisão técnica e auditabilidade.
 
